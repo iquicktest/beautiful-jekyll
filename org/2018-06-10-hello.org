@@ -1,12 +1,15 @@
 #+OPTIONS: toc:nil num:nil
 #+BEGIN_EXPORT html
 ---
-layout: post
-title: "Jerry Blogging with Emacs, Org, and GitHub Pages"
+layout:     post
+author:     Jerry Zhao
+title:      "test123 hello world for jerry"
 permalink: /:title/
+date:       2018-06-10 11:50:58
 tags: [emacs]
 ---
 #+END_EXPORT
+
 
 * hello test123
   jiushi zheyang
