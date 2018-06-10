@@ -14,7 +14,6 @@ tags: [emacs]
 * hello test123
   jiushi zheyang
 ** nihao
-#+BEGIN_SRC python
-import requests
-print("tes")
+#+BEGIN_SRC R
+players <- read.csv("offensive_stats_2016.csv", header=TRUE, sep=",")
 #+END_SRC
