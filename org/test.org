@@ -1,0 +1,17 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Blogging with Emacs, Org, and GitHub Pages"
+permalink: /:title/
+tags: [emacs]
+---
+#+END_EXPORT
+
+* hello test
+  jiushi zheyang
+** nihao
+#+BEGIN_SRC python
+import requests
+print("tes")
+#+END_SRC
