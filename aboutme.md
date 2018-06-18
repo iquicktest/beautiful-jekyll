@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 关于我
 subtitle: Why you'd want to go on a date with me
 ---
 
@@ -18,4 +18,4 @@ My name is Jerry Zhao. I have the following qualities:
 ### Contact Me:
 
 - Email: iquicktestsg@outlook.com
-- Linkedin: https://www.linkedin.com/in/xubinzhao/
+- Linkedin: [https://www.linkedin.com/in/xubinzhao/](https://www.linkedin.com/in/xubinzhao/)
