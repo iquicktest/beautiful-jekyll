@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  关于我: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://www.google.com"
     - GitHub Pages: "https://iquicktest.github.com/"
